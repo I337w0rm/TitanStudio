@@ -3,6 +3,7 @@
 **Developed by:** [I337w0rm (Adnan Kendic)](https://github.com/I337w0rm) | **Location:**  B&H 🇧🇦
 
 **Titan Studio** is a powerful, lightweight, and aggressive C++ utility designed to take absolute control over your Windows operating system. It features 16 highly advanced modules focused on extreme gaming performance, deep system debloating, hardware identity spoofing, and total privacy protection.
+<img width="631" height="668" alt="image" src="https://github.com/user-attachments/assets/11880da9-6615-480c-8a35-23a4b097b45c" />
 
 
 
